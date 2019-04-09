@@ -1,0 +1,4 @@
+firstName,lastName,employerName,city,state,country,married,children,electronicAddress,citizenship,phone,dateOfBirth,networth,aum,cash,securities,other,level,isDeceased
+Pierre ,Omidyar,Ebay,Henderson,Nevada,USA,y,1,PierreOmidyar@klm.com,USA,123-555-0105,1967-06-21,10.5,525,16,431,79,UHNW,FALSE
+Bill ,Gates,Microsoft,Redmond,Seattle,USA,y,1,BillGates@msft.com,USA,123-444-777,1967-09-29,21,797,12,456,79,UHNW,FALSE
+Michael,Bloomberg,Bloomberg,New York City,New York,USA,y,2,michaelb@bloomberg.com,USA,123-444-888,1942-02-14,59.4,840,50,700,90,UHNW,FALSE

@@ -1,0 +1,85 @@
+{
+	"body":{
+
+		"party":{
+			"partyType": "Individual",
+			"contactInfo":
+			{
+				"emailInfo":
+				{
+					"electronicAddress": "pierreomidyar@klm.com",
+					"electronicAddressType": "Home Email",
+					"isPreferred" : true
+				},
+				"phoneInfo":
+				{
+					"phone" : "123-555-0104",
+					"phoneType" : "Mobile Phone"
+				},
+				"addressInfo":
+				{
+					"city": "Henderson",
+					"state": "Nevada",
+					"country": "USA"
+				}
+				
+			},
+			"individualInfo":
+			{
+				"employmentInfo":
+				{
+					"employerName": "Ebay",
+					"positionTitle": "Chariman",
+					"natureOfBusiness": "Internet",
+					"employmentStatus" : "Passive"
+				},
+				"name" :
+				{
+					"firstName": "Pierre",
+					"lastName": "Omidyar"
+				},
+				"dateOfBirth" : "1967-06-21",
+				"gender": "Male",
+				"isDeceased": false,
+				"citizenship": "United States of America"
+			},
+			"assets":
+			{
+				"aum":"$ 205 million",
+				"level": "UHNW",
+				"networth": "$ 7.5 billion",
+				"aumInfo":
+				{
+					"cash": "$ 4 million",
+					"securities": "$ 170 million",
+					"other": "$ 31 million"
+				}
+			},
+			"socialInfo":
+			{
+				"twittterInfo":{
+					"mostmentionedtwtitterusers": ["abc", "def", "ghi"],
+					"mostmentionedhashtags": ["#abc", "#def", "#ghi"]
+				}
+			},
+			"crmInfo":
+			{
+				"emailInfoList":[
+					{
+						"createdat":"timeStamp",
+						"subject": "Structured Product",
+						"textbody":"Hello Sir/Madam, I would like to",
+						"sentiment" "Positive"
+					},
+					{
+						"createdat": "timeStamp",
+						"subject": "Impact Investing",
+						"textbody": "Hello Sir/Mada, I would not like to",
+						"sentiment": "Neutral"
+					}
+				]
+			}
+
+		}
+	}
+}
